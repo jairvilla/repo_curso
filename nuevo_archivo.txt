@@ -1,49 +1,5 @@
 
-cd Desktop 
-cd Git
-
-# comando git 
-
-git init
-ls
- git status # que archivos estamos trabajando 
- git add   # para agragar el archivo
-
-# crear nuestro punto de partida
-
-## Configurar usuario y mail
-# Debemos configurar un usuario y garantizar quien hizo los cambios
-
-git config --global user.email "you@example.com"
-
-git config  --global user.name "maverick"
-
-
-# Luego hay que  crear el primer snacht
-# editor de codigo se llama BIN
-
-### para crear el primer control version 
-
-## escribe algo:   mi primer commit 
-luego  -->  esc (tecla)   y :wq
-git log
-
-## para ver la version de cada programa debemos hacer los sgte:
-git status 
-
-
-## para volver a no tener en cuenta los cambios 
-
-git checkout ---nombre_del archivo que se mofdifico.extension
-
-# como no le hicimos un snachshot se pierde lo que borramos 
-
-# pARA ver las diferencia 
-git diff nombre del archivo.R 
-
-## tengo que add el archivo para guardar los cambios 
-
-# 
+Una gra mierda
 
 
 
