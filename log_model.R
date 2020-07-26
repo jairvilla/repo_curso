@@ -8,6 +8,13 @@ library(data.table); library(tidyr); library(ggpubr)
 
 ## Preparing dataset ----
 #  Exploring data --
+# -----------------------------------------------
+str(data1)  # borrar esto
+# Esto sera una prueba. ç
+names(data)
+
+#-----------------------------------------------
+
 names(data1)
 summary(data1)
 head(data1, n=10)
